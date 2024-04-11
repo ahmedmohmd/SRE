@@ -165,7 +165,7 @@ For a complete CS self-taught program, the resources for my study plan have been
 - [Additional Books](#additional-books)
 - [System Design, Scalability, Data Handling](#system-design-scalability-data-handling) (if you have 4+ years experience)
 - [Additional Learning](#additional-learning)
-  - [Compilers](#compilers)
+  - [🏆 Compilers](#compilers)
   - [Emacs and vi(m)](#emacs-and-vim)
   - [Unix command line tools](#unix-command-line-tools)
   - [Information theory](#information-theory-videos)
@@ -1506,7 +1506,7 @@ You're never really done.
     I added them to help you become a well-rounded software engineer and to be aware of certain
     technologies and algorithms, so you'll have a bigger toolbox.
 
-- ### Compilers
+- ### 🏆 Compilers
 
   - [How a Compiler Works in ~1 minute (video)](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
   - [Harvard CS50 - Compilers (video)](https://www.youtube.com/watch?v=CSZLNYF4Klo)
@@ -1663,13 +1663,15 @@ You're never really done.
   - [Divide & Conquer: FFT (video)](https://www.youtube.com/watch?v=iTMn0Kt18tg&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=4)
   - [Understanding The FFT](http://jakevdp.github.io/blog/2013/08/28/understanding-the-fft/)
 
-- ### Bloom Filter
+- ### 🏆 Bloom Filter
 
   - Given a Bloom filter with m bits and k hashing functions, both insertion and membership testing are O(k)
   - [Bloom Filters (video)](https://www.youtube.com/watch?v=-SuTGoFYjZs)
   - [Bloom Filters | Mining of Massive Datasets | Stanford University (video)](https://www.youtube.com/watch?v=qBTdukbzc78)
   - [Tutorial](http://billmill.org/bloomfilter-tutorial/)
   - [How To Write A Bloom Filter App](http://blog.michaelschmatz.com/2016/04/11/how-to-write-a-bloom-filter-cpp/)
+
+  - [Bloom Filters and its multible hash functions](https://stackoverflow.com/questions/48727174/bloom-filters-and-its-multiple-hash-functions#:~:text=AFAIK%2C%20the%20usual%20approach%20is,2%20hashes%2064%20bit%20each.)
 
 - ### HyperLogLog
 
