@@ -1506,17 +1506,16 @@ You're never really done.
     I added them to help you become a well-rounded software engineer and to be aware of certain
     technologies and algorithms, so you'll have a bigger toolbox.
 
-- ### [x] Compilers
+## - [x] Compilers
 
-  - [How a Compiler Works in ~1 minute (video)](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
-  - [Harvard CS50 - Compilers (video)](https://www.youtube.com/watch?v=CSZLNYF4Klo)
-  - [C++ (video)](https://www.youtube.com/watch?v=twodd1KFfGk)
-  - [Understanding Compiler Optimization (C++) (video)](https://www.youtube.com/watch?v=FnGCDLhaxKU)
+- [How a Compiler Works in ~1 minute (video)](https://www.youtube.com/watch?v=IhC7sdYe-Jg)
+- [Harvard CS50 - Compilers (video)](https://www.youtube.com/watch?v=CSZLNYF4Klo)
+- [C++ (video)](https://www.youtube.com/watch?v=twodd1KFfGk)
+- [Understanding Compiler Optimization (C++) (video)](https://www.youtube.com/watch?v=FnGCDLhaxKU)
 
-
-  - [What is the difference between clang and LLVM and GCC](https://stackoverflow.com/questions/24836183/what-is-the-difference-between-clang-and-llvm-and-gcc-g)
-  - [What does a just-in-time JIT compiler do?](https://stackoverflow.com/questions/95635/what-does-a-just-in-time-jit-compiler-do)
-  - [What is exactly LLVM?](https://stackoverflow.com/questions/2354725/what-exactly-is-llvm)
+- [What is the difference between clang and LLVM and GCC](https://stackoverflow.com/questions/24836183/what-is-the-difference-between-clang-and-llvm-and-gcc-g)
+- [What does a just-in-time JIT compiler do?](https://stackoverflow.com/questions/95635/what-does-a-just-in-time-jit-compiler-do)
+- [What is exactly LLVM?](https://stackoverflow.com/questions/2354725/what-exactly-is-llvm)
 
 - ### Emacs and vi(m)
 
