@@ -180,7 +180,7 @@ For a complete CS self-taught program, the resources for my study plan have been
   - [A\*](#a)
   - [Fast Fourier Transform](#fast-fourier-transform)
   - [🏆 Bloom Filter](#bloom-filter)
-  - [HyperLogLog](#hyperloglog)
+  - [🏆 HyperLogLog](#hyperloglog)
   - [Locality-Sensitive Hashing](#locality-sensitive-hashing)
   - [van Emde Boas Trees](#van-emde-boas-trees)
   - [Augmented Data Structures](#augmented-data-structures)
@@ -1673,9 +1673,16 @@ You're never really done.
 
   - [Bloom Filters and its multible hash functions](https://stackoverflow.com/questions/48727174/bloom-filters-and-its-multiple-hash-functions#:~:text=AFAIK%2C%20the%20usual%20approach%20is,2%20hashes%2064%20bit%20each.)
 
-- ### HyperLogLog
+- ### 🏆 HyperLogLog
 
   - [How To Count A Billion Distinct Objects Using Only 1.5KB Of Memory](http://highscalability.com/blog/2012/4/5/big-data-counting-how-to-count-a-billion-distinct-objects-us.html)
+
+  - [LEARN BITMAP INDEXES](https://www.youtube.com/watch?v=5-JYVeM3IQg&ab_channel=TechDummiesNarendraL)
+
+  - [Hyperloglog Explained | Counting things at scale.](https://www.youtube.com/watch?v=MOkm__T2jUg&ab_channel=CoreDump)
+  - [Hyperloglog: Facebook's algorithm to count distinct elements](https://www.youtube.com/watch?v=eV1haPUt0NU&ab_channel=GauravSen)
+  - [The Algorithm with the Best Name - HyperLogLog Explained](https://www.youtube.com/watch?v=2PlrMCiUN_s&ab_channel=VictorSanchesPortella)
+  - [A problem so hard even Google relies on Random Chance](https://www.youtube.com/watch?v=lJYufx0bfpw&ab_channel=BreakingTaps)
 
 - ### Locality-Sensitive Hashing
 
