@@ -181,7 +181,7 @@ For a complete CS self-taught program, the resources for my study plan have been
   - [Fast Fourier Transform](#fast-fourier-transform)
   - [🏆 Bloom Filter](#bloom-filter)
   - [🏆 HyperLogLog](#hyperloglog)
-  - [Locality-Sensitive Hashing](#locality-sensitive-hashing)
+  - [🏆 Locality-Sensitive Hashing](#locality-sensitive-hashing)
   - [van Emde Boas Trees](#van-emde-boas-trees)
   - [Augmented Data Structures](#augmented-data-structures)
   - [Balanced search trees](#balanced-search-trees)
@@ -1684,11 +1684,13 @@ You're never really done.
   - [The Algorithm with the Best Name - HyperLogLog Explained](https://www.youtube.com/watch?v=2PlrMCiUN_s&ab_channel=VictorSanchesPortella)
   - [A problem so hard even Google relies on Random Chance](https://www.youtube.com/watch?v=lJYufx0bfpw&ab_channel=BreakingTaps)
 
-- ### Locality-Sensitive Hashing
+- ### 🏆 Locality-Sensitive Hashing
 
   - Used to determine the similarity of documents
   - The opposite of MD5 or SHA which are used to determine if 2 documents/strings are exactly the same
   - [Simhashing (hopefully) made simple](http://ferd.ca/simhashing-hopefully-made-simple.html)
+
+  - [Locality Sensitive Hashing](https://freedium.cfd/https://towardsdatascience.com/understanding-locality-sensitive-hashing-49f6d1f6134)
 
 - ### van Emde Boas Trees
 
