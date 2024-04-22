@@ -104,6 +104,7 @@ For a complete CS self-taught program, the resources for my study plan have been
 ### Topics of Study
 
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
+- [🏆 Data Structures Intro](#data-structures-intro)
 - [Data Structures](#data-structures)
   - [Arrays](#arrays)
   - [Linked Lists](#linked-lists)
@@ -588,6 +589,14 @@ When you go through "Cracking the Coding Interview", there is a chapter on this,
 if you can identify the runtime complexity of different algorithms. It's a super review and test.
 
 ## Data Structures
+
+- ### 🏆 Data Structures Intro
+
+  - [x]
+    - [Why Data Structures?](https://www.youtube.com/watch?v=jGP19W5IObA&list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt&index=1&pp=iAQB)
+    - [Static & Dynamic Memory Allocation P1](https://www.youtube.com/watch?v=OlY_Fwfyk6s&list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt&index=2&pp=iAQB)
+    - [Static & Dynamic Memory Allocation P2](https://www.youtube.com/watch?v=XxniWLQEMMo&list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt&index=3&pp=iAQB)
+    - [Data Structures Classifications](https://www.youtube.com/watch?v=Ozm_OHViErY&list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt&index=4&pp=iAQB)
 
 - ### Arrays
 
